@@ -1,0 +1,11 @@
+Angular - 17 released on Nov 2023
+
+What is Angular?
+-- Angular is a newest form of AngularJs, developed by Google, which is an open-source front-end development platform used for building mobile application and desktop application.
+-- It contains features like component, Directives, Forms, Pipes, HTTP Services, Dependency Injection and many more.
+-- Angular is an application-design framework and development platform for creating efficient and sophisticated single-page apps.
+
+Why Angular?
+-- Angular enables users to effortlessly move data from JavaScript code to the view, and react to user events without having to write any code manually.
+
+
